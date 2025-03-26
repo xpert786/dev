@@ -1,7 +1,7 @@
 
 
 <!--
-**Vivekahuja70/Vivekahuja70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**m.xpert786/m.xpert786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,26 +16,26 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">Hi 👋, I'm Vivek Ahuja</h1>
-<h3 align="center">A software engineer and passionate mobile app developer</h3> 
+<h1 align="center">Hi 👋, I'm Arun Rana</h1>
+<h3 align="center">A dedicated Software Engineer and passionate Mobile App Developer committed to building innovative and high-quality solutions.</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vivekahuja70&label=Profile%20views&color=0e75b6&style=flat" alt="Vivekahuja70" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m.xpert786&label=Profile%20views&color=0e75b6&style=flat" alt="m.xpert786" /> </p>
 
 
 <img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vivekahuja70/]
+- 👨‍💻 All of my projects are available at [https://github.com/m.xpert786/]
 
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
-- 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
+- 💬 Ask me about *MEAN, MERN, PHP, Laravel, Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
 
-- 📫 How to reach me **imvivekahuja70@gmail.com**
+- 📫 How to reach me **arunrana@itinfonity.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.upwork.com/freelancers/vivekahuja" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iamvivekahuja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekahuja" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/ranaarun" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rana-arun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekahuja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
